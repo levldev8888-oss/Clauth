@@ -1,0 +1,1 @@
+CALM Calc Android WebView project. Open with AndroidIDE or build with Gradle 8.7 + JDK 17 + Android SDK 35. For Termux ARM, native aapt2 may be needed via android.aapt2FromMavenOverride in gradle.properties. No internet permission required.
